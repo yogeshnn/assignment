@@ -18,7 +18,6 @@ def minimumdifference(arr, z):
   
     return result, minIndex
 
-
 if __name__ == '__main__':
     price = dict()
 
